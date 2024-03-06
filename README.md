@@ -1,4 +1,4 @@
-### Computer modelling in chemical technology 2024
+# Computer modelling in chemical technology 2024
 
 The course is a part of the BIOREF Erasmus Mundus project.
 
@@ -10,6 +10,6 @@ For more information please visit: https://master-bioref.eu/
 
 
 
-## List of the course units:
+### List of the course units:
 
 [1. Python basics](01/)
