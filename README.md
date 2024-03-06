@@ -13,3 +13,12 @@ For more information please visit: https://master-bioref.eu/
 ### List of the course units:
 
 [1. Python basics](01/)
+
+
+## Usefull links:
+
+[Python installers](https://www.anaconda.com/products/distribution)
+
+[A collection of Python scripts for solving chemical problems](https://github.com/sbednarz/modeling)
+
+[Python for Computational Science and Engineering](https://fangohr.github.io/introduction-to-python-for-computational-science-and-engineering/)
