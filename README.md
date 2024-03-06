@@ -8,7 +8,11 @@ For more information please visit: https://master-bioref.eu/
 
 [:arrow_forward: Click here to start Python/Jupyter in free MyBinder cloud and use the course materials](http://mybinder.org/v2/gh/sbednarz/bioref-2024-computer-modelling/main)
 
+### Why Python?
 
+*  high-level, general-purpose scripting programming language
+*  mature (33 yo), well documented, huge users community, very popular
+*  main applications: education, numerical/scientific calculations, data processing & visualisation, machine learning, embedded systems, and many more
 
 ### List of the course units:
 
