@@ -12,7 +12,7 @@ For more information please visit: https://master-bioref.eu/
 
 *  high-level, general-purpose scripting programming language
 *  mature (33 yo), well documented, huge users community, very popular
-*  main applications: education, numerical/scientific calculations, data processing & visualisation, machine learning, embedded systems, and many more
+*  main applications: education, scientific calculations, data processing & visualisation, machine learning, embedded systems, and many more
 
 ### List of the course units:
 
