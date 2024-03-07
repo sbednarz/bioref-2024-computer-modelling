@@ -10,7 +10,7 @@ For more information please visit: https://master-bioref.eu/
 
 ### Why Python?
 
-*  high-level, general-purpose scripting programming language
+*  free, open-source, high-level, general-purpose scripting programming language
 *  mature (33 yo), well documented, huge users community, very popular
 *  main applications: education, scientific calculations, data processing & visualisation, machine learning, embedded systems, and many more
 
