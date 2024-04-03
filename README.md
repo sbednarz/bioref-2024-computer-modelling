@@ -10,13 +10,14 @@ For more information please visit: https://master-bioref.eu/
 
 ### Why Python?
 
-*  free, open-source, high-level, general-purpose scripting programming language
-*  mature (33 yo), well documented, huge users community, very popular
-*  main applications: education, scientific calculations, data processing & visualisation, machine learning, embedded systems, and many more
+*  Free, open-source, high-level, general-purpose scripting programming language
+*  Mature (33 yo), well documented, huge users community, very popular
+*  Main applications: education, scientific calculations, data processing & visualisation, machine learning, embedded systems, and many more
 
 ### List of the course units:
 
 * [Python basics](01/)
+* [Mass balance under steady-state conditions](02/)
 
 
 ### Usefull links:
