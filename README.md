@@ -19,6 +19,7 @@ For more information please visit: https://master-bioref.eu/
 * [Python basics](01/)
 * [Mass balance under steady-state conditions](02/)
 * [Mass balance on reactive system](03/)
+* [Chemical Equilibrium](04/)
 
 
 
