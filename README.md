@@ -20,7 +20,8 @@ For more information please visit: https://master-bioref.eu/
 * [Mass balance under steady-state conditions](02/)
 * [Mass balance on reactive system](03/)
 * [Chemical Equilibrium](04/)
-
+* [5. Kinetics of multiple reactions](05/)
+  
 
 
 ### Usefull links:
