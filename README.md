@@ -16,10 +16,10 @@ For more information please visit: https://master-bioref.eu/
 
 ### List of the course units:
 
-* [Python basics](01/)
-* [Mass balance under steady-state conditions](02/)
-* [Mass balance on reactive system](03/)
-* [Chemical Equilibrium](04/)
+* [1. Python basics](01/)
+* [2. Mass balance under steady-state conditions](02/)
+* [3. Mass balance on reactive system](03/)
+* [4. Chemical Equilibrium](04/)
 * [5. Kinetics of multiple reactions](05/)
   
 
